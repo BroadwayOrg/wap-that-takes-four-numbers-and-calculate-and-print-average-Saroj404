@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Average_of_Four_Numbers\Average_of_Four_Numbers\bin\Debug\Average_of_Four_Numbers.exe.config
+C:\Users\user\source\repos\Average_of_Four_Numbers\Average_of_Four_Numbers\bin\Debug\Average_of_Four_Numbers.exe
+C:\Users\user\source\repos\Average_of_Four_Numbers\Average_of_Four_Numbers\bin\Debug\Average_of_Four_Numbers.pdb
+C:\Users\user\source\repos\Average_of_Four_Numbers\Average_of_Four_Numbers\obj\Debug\Average_of_Four_Numbers.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Average_of_Four_Numbers\Average_of_Four_Numbers\obj\Debug\Average_of_Four_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Average_of_Four_Numbers\Average_of_Four_Numbers\obj\Debug\Average_of_Four_Numbers.exe
+C:\Users\user\source\repos\Average_of_Four_Numbers\Average_of_Four_Numbers\obj\Debug\Average_of_Four_Numbers.pdb
